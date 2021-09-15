@@ -5,7 +5,7 @@
 * [Visual Studio Code](#установка-редактора-visual-studio-code)
 * [Расширение PlatformIO](#установка-platformio-extensions)
 * [Утилита AVRDUDE](#установка-утилиты-avrdude)
-* [Система Git]
+* [Система Git](#система-контроля-версий-git)
 
 ## Установка редактора Visual Studio Code
 
