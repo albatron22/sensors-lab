@@ -4,3 +4,6 @@
 [submodule "Lab2"]
 	path = Lab2
 	url = git@github.com:albatron22/Lab_sens-2.git
+[submodule "Lab3"]
+	path = Lab3
+	url = git@github.com:albatron22/Lab_sens-3.git
